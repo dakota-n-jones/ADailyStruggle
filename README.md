@@ -1,4 +1,4 @@
-# ADailyStruggle
+# A Daily Struggle
 A game about managing a tough mental illness.
 
 Can be downloaded to play here:
